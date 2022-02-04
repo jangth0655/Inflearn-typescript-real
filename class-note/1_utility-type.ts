@@ -7,7 +7,7 @@ interface Product {
 }
 
 // 상품 목록을 받아오기 위한 API 함수
-function fetchProducts(): Promise<Product[]> {}
+// function fetchProducts(): Promise<Product[]> {}
 
 type ShoppingItem = Pick<Product, "id" | "name" | "price">;
 function displayProductDetail(shoppingItems: ShoppingItem) {}
