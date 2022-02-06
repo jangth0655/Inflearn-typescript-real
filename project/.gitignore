@@ -1,5 +1,3 @@
 #history
-.history
-
-# devDependencies
-/node_modules
+history
+node_modules

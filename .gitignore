@@ -1,5 +1,4 @@
-#history
 .history
 
-# devDependencies
-/node_modules
+
+node_modules
