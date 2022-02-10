@@ -3,7 +3,7 @@
     "allowJs": true,
     "target": "ES5",
     "checkJs": true,
-    "outDir": "./built", //타입스크립트의 결과물이 어디에 들어갈지
+    "outDir": "./dist", //타입스크립트의 결과물이 어디에 들어갈지
     "moduleResolution": "Node",
     "lib": ["ES2015", "DOM", "DOM.Iterable"],
     "noImplicitAny": true,
